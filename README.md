@@ -115,7 +115,7 @@ pizza_sales/
 
 ## Dashboard Screenshot
 
-![Dashboard](dashboard/pizza_sales_dashboard.png)
+![Dashboard](dashboard/pizza_sales_dashboard_screenshot.png)
 
 ---
 
